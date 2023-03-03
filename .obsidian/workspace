@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "74b1b7bba03ee423",
+    "type": "split",
+    "children": [
+      {
+        "id": "78207cf06f00e59d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "8-Spring.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c71e76c0a2ad335",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f894cf2b7945de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892c09bc52f71a7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "85c5be8fad99f877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d1970e7fa351ee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199
+  },
+  "right": {
+    "id": "8eb21ea74cb3516e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65a41bcbfb61ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab77a3d4171b395",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8-Spring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d3a318243a3ee94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8-Spring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fe5f223dcdcac30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f82f3b16ede515ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8-Spring.md"
+              }
+            }
+          },
+          {
+            "id": "43a852afe67c3c02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "active": "78207cf06f00e59d",
+  "lastOpenFiles": [
+    "7-系统优化.md",
+    "4-Mysql.md",
+    "4.1.md",
+    "4.2 事务.md",
+    "5-Internet.md",
+    "6-Linux.md",
+    "6.1.md",
+    "04丨互斥锁（下）：如何用一把锁保护多个资源？.pdf",
+    "2-卡片盒笔记.md",
+    "1-名词解释.md"
+  ]
+}

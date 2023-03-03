@@ -1,0 +1,99 @@
+{
+  "switcher:open": [],
+  "outgoing-links:open-for-current": [],
+  "backlink:open": [],
+  "backlink:open-backlinks": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-headings": [],
+  "editor:open-search": [],
+  "darlal-switcher-plus:switcher-plus:open-symbols": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:delete-paragraph": []
+}

@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "线程本地存储",
+      "path": "Boxs/线程本地存储.md"
+    },
+    {
+      "basename": "线程安全",
+      "path": "Boxs/线程安全.md"
+    },
+    {
+      "basename": "为什么Java内部类要设计成静态和非静态两种？",
+      "path": "Boxs/为什么Java内部类要设计成静态和非静态两种？.md"
+    },
+    {
+      "basename": "Copy-on-Write",
+      "path": "Boxs/Copy-on-Write.md"
+    },
+    {
+      "basename": "原子性",
+      "path": "Boxs/原子性.md"
+    },
+    {
+      "basename": "如何制定性能调优标准？",
+      "path": "Boxs/如何制定性能调优标准？.md"
+    },
+    {
+      "basename": "操作系统原理-7.11 上下文切换",
+      "path": "Boxs/操作系统原理-7.11 上下文切换.md"
+    },
+    {
+      "basename": "安全性、活跃性以及性能问题",
+      "path": "Boxs/安全性、活跃性以及性能问题.md"
+    },
+    {
+      "basename": "多线程",
+      "path": "Boxs/多线程.md"
+    },
+    {
+      "basename": "Immutability 不变性",
+      "path": "Boxs/Immutability 不变性.md"
+    },
+    {
+      "basename": "Java内存模型：看Java如何解决可见性和有序性问题",
+      "path": "Boxs/Java内存模型：看Java如何解决可见性和有序性问题.md"
+    },
+    {
+      "basename": "java 线程",
+      "path": "Boxs/java 线程.md"
+    },
+    {
+      "basename": "管程：并发编程的万能钥匙",
+      "path": "Boxs/管程：并发编程的万能钥匙.md"
+    },
+    {
+      "basename": "吞吐量",
+      "path": "Boxs/吞吐量.md"
+    },
+    {
+      "basename": "系统负载",
+      "path": "Boxs/系统负载.md"
+    },
+    {
+      "basename": "可见性、原子性和有序性问题：并发编程的bug源头",
+      "path": "Boxs/可见性、原子性和有序性问题：并发编程的bug源头.md"
+    },
+    {
+      "basename": "互斥锁（上）：解决原子性问题",
+      "path": "Boxs/互斥锁（上）：解决原子性问题.md"
+    },
+    {
+      "basename": "锁",
+      "path": "Boxs/锁.md"
+    },
+    {
+      "basename": "延迟",
+      "path": "Boxs/延迟.md"
+    },
+    {
+      "basename": "Maven转Gradle踩坑",
+      "path": "Boxs/Maven转Gradle踩坑.canvas"
+    },
+    {
+      "basename": "CBOSS",
+      "path": "Pub/CBOSS.md"
+    },
+    {
+      "basename": "NIO",
+      "path": "project/NIO/NIO.md"
+    },
+    {
+      "basename": "Index-java",
+      "path": "project/Java/Index-java.md"
+    },
+    {
+      "basename": "老聃的金字塔原则",
+      "path": "Boxs/老聃的金字塔原则.md"
+    },
+    {
+      "basename": "6.1",
+      "path": "6.1.md"
+    },
+    {
+      "basename": "Obsidian 实现卡片盒笔记法",
+      "path": "Boxs/Obsidian 实现卡片盒笔记法.md"
+    },
+    {
+      "basename": "Java 内存模型（JMM）",
+      "path": "Boxs/Java 内存模型（JMM）.md"
+    },
+    {
+      "basename": "4.2 事务",
+      "path": "4.2 事务.md"
+    },
+    {
+      "basename": "Usmsk 介绍",
+      "path": "Usmsk 介绍.md"
+    },
+    {
+      "basename": "Tmux",
+      "path": "Tmux.md"
+    },
+    {
+      "basename": "Java 内存",
+      "path": "Java 内存.md"
+    },
+    {
+      "basename": "Index-Java",
+      "path": "Index-Java.md"
+    },
+    {
+      "basename": "ahk1新手极速入门",
+      "path": "ahk1新手极速入门.md"
+    },
+    {
+      "basename": "4-Mysql",
+      "path": "4-Mysql.md"
+    },
+    {
+      "basename": "5-Internet",
+      "path": "5-Internet.md"
+    },
+    {
+      "basename": "方向键改键",
+      "path": "方向键改键.md"
+    },
+    {
+      "basename": "工具使用说明",
+      "path": "工具使用说明.md"
+    },
+    {
+      "basename": "6-Linux",
+      "path": "6-Linux.md"
+    },
+    {
+      "basename": "不公正辞退建议！",
+      "path": "不公正辞退建议！.md"
+    },
+    {
+      "basename": "类加载器",
+      "path": "类加载器.md"
+    },
+    {
+      "basename": "卢曼卡片盒笔记法",
+      "path": "卢曼卡片盒笔记法.md"
+    },
+    {
+      "basename": "突然想起来的问题记录",
+      "path": "突然想起来的问题记录.md"
+    },
+    {
+      "basename": "武汉疫情",
+      "path": "武汉疫情.md"
+    },
+    {
+      "basename": "系统构成的三大要素",
+      "path": "系统构成的三大要素.md"
+    },
+    {
+      "basename": "Java 是否可以做到修改类而不用重启 JVM",
+      "path": "Java 是否可以做到修改类而不用重启 JVM.md"
+    },
+    {
+      "basename": "CBOSS-WEB容灾逻辑",
+      "path": "CBOSS-WEB容灾逻辑.md"
+    },
+    {
+      "basename": "配置 Obsidian-像 Vim 一样跳转",
+      "path": "配置 Obsidian-像 Vim 一样跳转.md"
+    },
+    {
+      "basename": "01-记录",
+      "path": "01-记录.md"
+    },
+    {
+      "basename": "Pasted image 20230301174754",
+      "path": "Pics/Pasted image 20230301174754.png"
+    },
+    {
+      "basename": "2023-03-01",
+      "path": "Daily/2023-03-01.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"group","label":"设置 gradle 仓库","id":"f500375078dbc09a","x":420,"y":400,"width":520,"height":800},
+		{"type":"text","text":"\n## init. gradle 放到项目 .gradle 目录下\n```gradle\nallprojects {\n    repositories {\n\t\tmavenLocal()\n\t\tmaven {\n            url \"http://maven.aliyun.com/nexus/content/groups/public/\"\n        }\n    }\n}\n```","id":"0b3c0e18a13eb97e","x":440,"y":420,"width":480,"height":274},
+		{"type":"link","url":"https://blog.csdn.net/n447194252/article/details/108963169","id":"a83840efefa1fd10","x":-500,"y":-340,"width":280,"height":200},
+		{"type":"file","file":"Pics/Pasted image 20230301174754.png","id":"616263d1f38daac4","x":-80,"y":-40,"width":556,"height":200},
+		{"type":"file","file":"Pics/Pasted image 20230301174544.png","id":"5e0cc8b713e2e528","x":740,"y":-40,"width":420,"height":345},
+		{"type":"text","text":"gradle init --type pom ","id":"e77ba7c20df88530","x":-520,"y":-40,"width":300,"height":60},
+		{"type":"text","text":"判断是在仓库找不到<parent>节点的 jar","id":"ca1c7c8185dbe7e6","x":0,"y":248,"width":280,"height":57},
+		{"type":"text","text":"设置 gradle 使用的仓库为私服","id":"166bebcadf1fd711","x":0,"y":420,"width":280,"height":60},
+		{"type":"text","text":"## 输出一下 maven 地址，创建一个 build. gradle ,放到项目外\n```gradle\nrepositories {\n    \n}\ntask showRepos {\n    doLast {\n        println \"All repos:\"\n        println repositories.collect { it.name }\n\t\tprintln repositories.collect { it.url }\n    }\n}\n```\n##  进入 build. Gradle 目录下执行 ：gradle --init-script 项目\\. gradle\\init. gradle -q showRepos","id":"bc9205b979512b71","x":440,"y":777,"width":480,"height":403}
+	],
+	"edges":[
+		{"id":"afc445118c50b30a","fromNode":"e77ba7c20df88530","fromSide":"right","toNode":"616263d1f38daac4","toSide":"left","label":"报错"},
+		{"id":"7ba6230bff5cce08","fromNode":"5e0cc8b713e2e528","fromSide":"left","toNode":"616263d1f38daac4","toSide":"right","label":"jar是私有的"},
+		{"id":"5824e21d351d4240","fromNode":"616263d1f38daac4","fromSide":"bottom","toNode":"ca1c7c8185dbe7e6","toSide":"top"},
+		{"id":"5ac0c3753250005b","fromNode":"ca1c7c8185dbe7e6","fromSide":"bottom","toNode":"166bebcadf1fd711","toSide":"top"},
+		{"id":"2e7c216746de6a1a","fromNode":"f500375078dbc09a","fromSide":"left","toNode":"166bebcadf1fd711","toSide":"right"},
+		{"id":"aa31447e0182bb4b","fromNode":"166bebcadf1fd711","fromSide":"bottom","toNode":"e77ba7c20df88530","toSide":"bottom","label":"再次执行正确"}
+	]
+}

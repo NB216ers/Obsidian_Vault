@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "74b1b7bba03ee423",
+    "type": "split",
+    "children": [
+      {
+        "id": "134a4336405df5c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "443cf9e23ad56f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boxs/线程本地存储.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c71e76c0a2ad335",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f894cf2b7945de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c5be8fad99f877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d1970e7fa351ee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2807b0cf4f3eec4a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c756e6ddb1da06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "8eb21ea74cb3516e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65a41bcbfb61ebc",
+        "type": "tabs",
+        "dimension": 27.85087719298246,
+        "children": [
+          {
+            "id": "4ab77a3d4171b395",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Boxs/线程本地存储.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d3a318243a3ee94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Boxs/线程本地存储.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fe5f223dcdcac30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f82f3b16ede515ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Boxs/线程本地存储.md"
+              }
+            }
+          },
+          {
+            "id": "f3d127d9a24115a7",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a852afe67c3c02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "252d1e27b5b97120",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bd938f13865c912",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "022e37289ee908ea",
+        "type": "tabs",
+        "dimension": 72.14912280701753,
+        "children": [
+          {
+            "id": "2fef3900bbd6c795",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 749.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "443cf9e23ad56f23",
+  "lastOpenFiles": [
+    "Boxs/线程安全.md",
+    "Boxs/线程本地存储.md",
+    "Boxs/为什么Java内部类要设计成静态和非静态两种？.md",
+    "Boxs/Copy-on-Write.md",
+    "Pics/Pasted image 20230303155942.png",
+    "Boxs/原子性.md",
+    "Boxs/如何制定性能调优标准？.md",
+    "Boxs/操作系统原理-7.11 上下文切换.md",
+    "Boxs/安全性、活跃性以及性能问题.md",
+    "Boxs/多线程.md",
+    "Pics/Pasted image 20230303154505.png",
+    "Pics/Pasted image 20230303154243.png",
+    "Boxs/Immutability 不变性.md",
+    "Pics/Pasted image 20230303152114.png",
+    "Boxs/Java内存模型：看Java如何解决可见性和有序性问题.md",
+    "Boxs/java 线程.md",
+    "Boxs/管程：并发编程的万能钥匙.md",
+    "Boxs/吞吐量.md",
+    "Boxs/系统负载.md",
+    "Boxs/可见性、原子性和有序性问题：并发编程的bug源头.md",
+    "Boxs/互斥锁（上）：解决原子性问题.md",
+    "Boxs/锁.md",
+    "Boxs/延迟.md",
+    "Boxs/Maven转Gradle踩坑.canvas",
+    "Pub/CBOSS.md",
+    "project/NIO/NIO.md",
+    "project/Java/Index-java.md",
+    "Boxs/老聃的金字塔原则.md",
+    "Pics/Pasted image 20230302171324.png",
+    "Pics/Pasted image 20230302161901.png",
+    "Pics/Pasted image 20230302161703.png",
+    "Pics/Pasted image 20230302161327.png",
+    "Pics/Pasted image 20230302161247.png",
+    "Pics/Pasted image 20230302161242.png",
+    "6.1.md",
+    "Boxs/Obsidian 实现卡片盒笔记法.md",
+    "Boxs/Java 内存模型（JMM）.md",
+    "04丨互斥锁（下）：如何用一把锁保护多个资源？.pdf",
+    "Boxs"
+  ]
+}
